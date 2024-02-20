@@ -73,6 +73,12 @@ main {
   padding: 1.3vw 2vw;
   border-radius: 2vw;
 }
+.signUps input {
+  padding: 1.3vw 2vw;
+  border-radius: 2vw;
+  border: none;
+  background-color: #ffffff;
+}
 
 /* hero section  */
 .hero {
